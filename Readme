@@ -1,0 +1,17 @@
+# Digital Library Book Management System
+
+## Description
+This system allows librarians to efficiently manage books, including adding, updating, searching, and deleting books. It maintains the availability status of each book.
+
+## Features
+- Add a book
+- View all books
+- Search for a book by ID or Title
+- Update book details
+- Delete a book record
+- Exit system
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
